@@ -1,0 +1,13 @@
+{
+  "version": "v1",
+  "packages": {
+    "node-red-contrib-tfjs-tutorial": {
+      "signature": "e44090adfff74a5609fe1d3e852523f2",
+      "file": true
+    },
+    "node-red-contrib-iot-demo": {
+      "signature": "3424bf50d3f058f04b040499dc4816ec",
+      "file": true
+    }
+  }
+}

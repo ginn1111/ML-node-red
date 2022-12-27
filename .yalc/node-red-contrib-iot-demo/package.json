@@ -1,0 +1,20 @@
+{
+  "name": "node-red-contrib-iot-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThuanPham, NhonTran",
+  "license": "ISC",
+  "peerDependencies": {
+    "@tensorflow/tfjs-node": "^4.1.0"
+  },
+  "node-red": {
+    "nodes": {
+      "tfjs-iot-demo-node": "index.js"
+    }
+  },
+  "yalcSig": "3424bf50d3f058f04b040499dc4816ec"
+}
